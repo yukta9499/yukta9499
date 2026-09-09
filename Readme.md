@@ -3,9 +3,9 @@
 
 Welcome to my GitHub! 👋
 
-I'm Yukta Yogesh Kale, a BCA graduate from G.H. Raisoni Institute of Management and Engineering, Jalgaon. I’m passionate about web development and creating clean, responsive, and user-friendly interfaces.
+I'm Yukta Yogesh Kale, a BCA graduate from G.H. Raisoni Institute of Management and Engineering, Jalgaon. I'm passionate about web development and creating clean, responsive, and user-friendly interfaces.
 
-My primary interest is frontend development, and I’m currently expanding my skills toward full-stack development. I enjoy learning by building projects and exploring new technologies.
+My primary interest is frontend development, and I'm currently expanding my skills toward full-stack development. I enjoy learning by building projects and exploring new technologies.
 
 👩‍💻 About Me
 🎓 BCA Graduate — 2026
@@ -17,21 +17,13 @@ My primary interest is frontend development, and I’m currently expanding my sk
 💡 Enjoy building practical web projects
 📚 Always learning and improving my development skills
 🛠️ Tech Stack
-💻 Programming & Web Technologies
+💻 Languages & Web Technologies
 
-
-
-
-
-
-🔧 Development Tools
-
-
-
+🔧 Tools
 
 🎨 Frontend Development
 
-My main area of interest is frontend development.
+My main area of interest is Frontend Development.
 
 I enjoy working on:
 
@@ -39,43 +31,37 @@ I enjoy working on:
 🎨 Clean and modern UI designs
 📱 Mobile-friendly layouts
 ⚡ Interactive web pages using JavaScript
-🧩 Reusable and well-structured frontend components
+🧩 Well-structured frontend code
 🔧 Improving website usability and user experience
 🚀 Full-Stack Journey
 
-I'm currently learning full-stack development to expand beyond frontend and understand how complete web applications are built.
+I'm currently learning Full-Stack Development to expand my knowledge beyond frontend development.
 
-My goal is to become comfortable with:
+My goal is to understand the complete development process:
 
-Frontend → Backend → Database → Deployment
+Frontend → Backend → Database → APIs → Deployment
 
-and eventually build complete, real-world applications from start to finish.
+
+I want to build complete, scalable, and real-world web applications.
 
 📚 Academic Projects
+🔹 Project 1 — [Project Name]
 
-I have worked on academic projects as part of my BCA journey, applying my programming and web-development knowledge to practical problems.
+Add your project description here.
 
-🔹 Academic Project 1
-
-[Add Project Name]
-
-Add a short description of your project here.
-
-Technologies: HTML • CSS • JavaScript • Python
+Technologies: HTML CSS JavaScript Python
 
 My Contribution:
 
 Designed and developed the frontend
 Created responsive layouts
 Implemented user interactions
-Worked on the overall user experience
-🔹 Academic Project 2
+Worked on the overall UI/UX
+🔹 Project 2 — [Project Name]
 
-[Add Project Name]
+Add your project description here.
 
-Add a short description of your project here.
-
-Technologies: HTML • CSS • JavaScript • Python
+Technologies: HTML CSS JavaScript Python
 
 My Contribution:
 
@@ -92,7 +78,7 @@ Tested and improved the application
 🔗 APIs and Application Integration
 🎯 My Goals
 
-My goal is to become a skilled full-stack developer with a strong foundation in frontend development.
+My goal is to become a skilled Full-Stack Developer with a strong foundation in Frontend Development.
 
 I'm focused on:
 
@@ -106,11 +92,8 @@ Continuously learning and growing as a developer
 📊 GitHub Stats
 
 🤝 Let's Connect
-
 📧 Email: yuktakale3105@gmail.com
-
 🐙 GitHub: @yukta9499
-
 ⚡ Developer Mindset
 
 Learn → Build → Experiment → Improve → Repeat 🚀
